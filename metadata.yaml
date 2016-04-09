@@ -1,0 +1,33 @@
+_repo: The-Merry-Adventures-of-Robin-Hood_10148
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 10148/10148-h/images/titlepage.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Pyle, Howard
+    birthdate: 1853
+    deathdate: 1911
+    gutenberg_agent_id: '491'
+    url: http://www.gutenberg.org/2009/agents/491
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Pyle
+description: ''
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10148'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Robin Hood (Legendary character) -- Legends'
+- !lcsh 'Folklore -- England'
+- !lcc 'PR'
+- !lcc 'PZ'
+- GITenberg
+title: The Merry Adventures of Robin Hood
+url: http://www.gutenberg.org/ebooks/10148
